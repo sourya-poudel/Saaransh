@@ -15,4 +15,5 @@
 
 Whether you're a student, researcher, or just a curious reader, Saaransh saves time and boosts comprehension—without losing context.
 
+#### ⚙️ DEMO:
 ![Saaransh Demo](assets/demo.gif)
