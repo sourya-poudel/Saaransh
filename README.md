@@ -1,2 +1,16 @@
-# Saaransh
-**Saaransh** is a browser extension that uses AI to instantly summarize any webpage. From articles to research papers, it extracts the core ideas in one click. Built for speed and clarity, Saaransh helps users save time and stay focused—delivering the essence (“Saaransh”) of content, every time.
+
+### 🧠 Saaransh – AI-Powered Web Page Summarizer Extension
+
+**Saaransh** is a sleek, browser-based AI summarizer extension that instantly extracts the core ideas from any webpage. Designed with speed, clarity, and user-focus in mind, Saaransh helps you cut through the noise and understand content at a glance.
+
+#### 🔍 Features:
+
+* ✨ One-click summarization of articles, blogs, research, and more
+* ⚡ Powered by advanced language models for accurate, human-like summaries
+* 📄 Supports long-form content, news, and cluttered webpages
+* 🌐 Built for Chrome (Firefox and Edge support coming soon)
+* 🇳🇵 Named after the Nepali word for “essence,” reflecting its goal to deliver the heart of any content
+
+#### 🚀 Why Saaransh?
+
+Whether you're a student, researcher, or just a curious reader, Saaransh saves time and boosts comprehension—without losing context.
