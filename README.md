@@ -14,3 +14,5 @@
 #### 🚀 Why Saaransh?
 
 Whether you're a student, researcher, or just a curious reader, Saaransh saves time and boosts comprehension—without losing context.
+
+![Saaransh Demo](assets/demo.gif)
