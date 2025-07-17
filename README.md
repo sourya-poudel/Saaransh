@@ -8,7 +8,7 @@
 * ✨ One-click summarization of articles, blogs, research, and more
 * ⚡ Powered by advanced language models for accurate, human-like summaries
 * 📄 Supports long-form content, news, and cluttered webpages
-* 🌐 Built for Chrome (Firefox and Edge support coming soon)
+* 🌐 Built for all Chromium-Based Browsers
 * 🇳🇵 Named after the Nepali word for “essence,” reflecting its goal to deliver the heart of any content
 
 #### 🚀 Why Saaransh?
